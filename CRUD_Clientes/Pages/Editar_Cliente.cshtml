@@ -1,0 +1,43 @@
+﻿@page "{IntIdCliente:int?}"
+@model CRUD_Clientes.Pages.Editar_ClienteModel
+@{
+    ViewData["Title"] = "Editar Clientes - CRUD_Clientes";
+}
+
+    <h2>Editando al Cliente: @Model.cCliente.StrNombre @Model.cCliente.StrApellido </h2>
+
+    <form method="post">
+        <input type="hidden" asp-for="cCliente.IntIdCliente" />
+
+        <div class="form-group">
+            <label asp-for="cCliente.StrNombre">Nombre</label>
+            <input asp-for="cCliente.StrNombre" type="text" class="form-control" />
+            <span class="text-danger" asp-validation-for="cCliente.StrNombre"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="cCliente.StrApellido">Apellido</label>
+            <input asp-for="cCliente.StrApellido" type="text" class="form-control" />
+            <span class="text-danger" asp-validation-for="cCliente.StrApellido"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="cCliente.DtFechaNacimineto">Fecha de Nacimiento</label>
+            <input asp-for="cCliente.DtFechaNacimineto" type="date" />
+
+        </div>
+
+        <div class="form-group">
+            <label asp-for="cCliente.ESexo">Sexo</label>
+            <select asp-for="cCliente.ESexo" asp-items="@Model.Sexo" class="form-control">
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="cCliente.StrDirección">Dirección</label>
+            <input asp-for="cCliente.StrDirección" type="text" class="form-control" />
+            <span class="text-danger" asp-validation-for="cCliente.StrDirección "></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Guardar cambios</button>
+    </form> 

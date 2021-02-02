@@ -1,0 +1,34 @@
+﻿@page "{Id:int}"
+@model CRUD_Clientes.Pages.Detalle_ClienteModel
+@{
+    ViewData["Title"] = "Detalle Cliente";
+}
+
+@if (!string.IsNullOrEmpty(Model.Mensaje))
+{
+    <div class="alert alert-success" role="alert">
+        @Model.Mensaje
+    </div>
+    <br />
+}
+
+<h2>@Model.cCliente.StrNombre @Model.cCliente.StrApellido </h2>
+
+<div class="card" style="width: 25rem;">
+    <div class="card-body">
+        <h4 class="card-title">@Model.cCliente.StrNombre @Model.cCliente.StrApellido</h4>
+        <h5>Id</h5>
+        <p class="card-text">@Model.cCliente.IntIdCliente</p>
+        <h5>Fecha de Nacimiento</h5>
+        <p class="card-text">@Model.cCliente.DtFechaNacimineto.ToString("dd-MMM-yyyy")</p>
+        <h5>Sexo</h5>
+        <p class="card-text">@Model.cCliente.ESexo</p>
+        <h5>Edad</h5>
+        <p class="card-text">@Model.cCliente.IntEdad</p>
+        <h5>Dirección</h5>
+        <p class="card-text">@Model.cCliente.StrDirección</p>
+    </div>
+</div>
+<br />
+<a class="btn btn-success" asp-page="/Index">Volver al registro</a>
+

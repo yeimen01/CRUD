@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\bin\Debug\netstandard2.0\CRUD_Clientes.Data.deps.json
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\bin\Debug\netstandard2.0\CRUD_Clientes.Data.dll
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\bin\Debug\netstandard2.0\CRUD_Clientes.Data.pdb
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\bin\Debug\netstandard2.0\CRUD_Clientes.Model.dll
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\bin\Debug\netstandard2.0\CRUD_Clientes.Model.pdb
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.csproj.CopyComplete
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.dll
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.pdb
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Data\obj\Debug\netstandard2.0\CRUD_Clientes.Data.csproj.CoreCompileInputs.cache

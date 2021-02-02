@@ -1,0 +1,11 @@
+﻿@page "{Id:int?}"
+@model CRUD_Clientes.Pages.Borrar_ClienteModel
+    ViewData["Title"] = "Borrar Cliente - CRUD_cliente";
+    }
+<h1>Borrando Cliente</h1>
+<br />
+<form method="post">
+    <h5>Apunto de borrar al cliente: @Model.cCliente.StrNombre @Model.cCliente.StrApellido </h5>
+    <button type="submit" class="btn btn-danger"><i class='fa fa-trash'></i> Eliminar</button>
+</form>
+

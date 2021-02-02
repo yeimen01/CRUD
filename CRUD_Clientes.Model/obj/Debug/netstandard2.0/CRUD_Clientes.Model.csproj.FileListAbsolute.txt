@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\bin\Debug\netstandard2.0\CRUD_Clientes.Model.deps.json
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\bin\Debug\netstandard2.0\CRUD_Clientes.Model.dll
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\bin\Debug\netstandard2.0\CRUD_Clientes.Model.pdb
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\obj\Debug\netstandard2.0\CRUD_Clientes.Model.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\obj\Debug\netstandard2.0\CRUD_Clientes.Model.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\obj\Debug\netstandard2.0\CRUD_Clientes.Model.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\obj\Debug\netstandard2.0\CRUD_Clientes.Model.dll
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\obj\Debug\netstandard2.0\CRUD_Clientes.Model.pdb
+C:\Users\Dell\source\repos\CRUD_Clientes\CRUD_Clientes.Model\obj\Debug\netstandard2.0\CRUD_Clientes.Model.csproj.CoreCompileInputs.cache
